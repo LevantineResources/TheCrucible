@@ -1,4 +1,4 @@
-#  محرّك الدّمى | The Crucible - Comic Adaptation in Levantine Arabic
+#  محرّك الدّمى | The Crucible Adaptation in Levantine Arabic
 
 This project is a comic adaptation of **Arthur Miller's** well known play retold in **Levantine (Syrian) Arabic**, with a focus on **accessible language for Arabic learners**. Every line of text includes English glosses via **interactive tooltips** for immersive, comprehensible input.
 
