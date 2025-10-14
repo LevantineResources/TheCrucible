@@ -5,7 +5,7 @@ This project is a comic adaptation of **Arthur Miller's** well known play retold
 
 # Read Here
 
--> [View the comic online](https://LevantineResources.github.io/GreatGatsby)
+-> [View the comic online](https://LevantineResources.github.io/TheCrucible)
 
 ## This features:
 - **Complete story**, adapted into Syrian Arabic in an engaging, conversational style
